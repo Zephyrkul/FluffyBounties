@@ -1,0 +1,13 @@
+{
+    "author": [
+        "Zephyrkul (Zephyrkul#1089)"
+    ],
+    "install_msg": "Usage: `[p]help PUG`.",
+    "name": "PUG",
+    "short": "Configure and generate lobbies for PUGs.",
+    "description": "Configure and generate lobbies for PUGs.",
+    "tags": [
+        "utility"
+    ],
+    "end_user_data_statement": "This cog does not persistently store any data or metadata about users."
+}
